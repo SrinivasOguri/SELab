@@ -26,7 +26,7 @@ int NQ(int k, int n)
 	         }
 	         }
 
-	      }
+	      }//this is the change i have made.
 int Place(int k, int i){
 	
 	for( int j =1; j<k;j++){
